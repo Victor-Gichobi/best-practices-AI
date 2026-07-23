@@ -86,29 +86,6 @@ Tasks:
 * Better button interaction feedback
 * Improved readability
 
-### Refactoring
-
-Created a reusable component:
-
-```javascript
-Card(title, price, features)
-```
-
-Example:
-
-```javascript
-Card(
-  "Basic Plan",
-  "$9.99/month",
-  [
-    "1 GB Storage",
-    "Basic Support",
-    "All Core Features"
-  ]
-);
-```
-
----
 
 ## Testing
 
