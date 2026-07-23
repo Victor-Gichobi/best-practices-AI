@@ -110,18 +110,6 @@ Card(
 
 ---
 
-## Project Structure
-
-```text
-project/
-│
-├── before.html
-├── after.html
-└── README.md
-```
-
----
-
 ## Testing
 
 The updated component was tested for:
@@ -132,6 +120,11 @@ The updated component was tested for:
 * Hover effects
 * HTML validity
 * Reusability
+
+## Screenshots
+
+<img width="1366" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/38e441ce-4fe7-4d15-8756-6d995840bd4c" />
+
 
 ### Results
 
@@ -156,6 +149,7 @@ The updated component was tested for:
 
 ---
 
-## Outcome
+## Author
 
-The broken pricing card was successfully repaired, modernized, and converted into a reusable component that can be easily adapted for different pricing plans and future projects.
+VICTOR MUCHIRI
+
